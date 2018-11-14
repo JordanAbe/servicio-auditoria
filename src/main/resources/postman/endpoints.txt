@@ -1,0 +1,114 @@
+http://localhost:8081/Auditoria/initMenu
+http://localhost:8081/Auditoria/initPlanAnual/2019
+http://localhost:8081/Auditoria/planesAnuales
+http://localhost:8081/Auditoria/grabarPlanAnual
+{
+   "periodo":"2018",
+   "procesos":[
+      {
+         "procesoId":1,
+         "nombred":"Proceso 1",
+         "seleccionado":true,
+         "prioridad":"Alta",
+         "duracion":45
+      },
+      {
+         "procesoId":2,
+         "nombred":"Proceso 2",
+         "seleccionado":true,
+         "prioridad":"Media",
+         "duracion":60
+      },
+      {
+         "procesoId":3,
+         "nombred":"Proceso 3",
+         "seleccionado":true,
+         "prioridad":"Baja",
+         "duracion":35
+      },
+      {
+         "procesoId":4,
+         "nombred":"Proceso 4",
+         "seleccionado":true,
+         "prioridad":"Media",
+         "duracion":50
+      },
+      {
+         "procesoId":5,
+         "nombred":"Proceso 5",
+         "seleccionado":true,
+         "prioridad":"Alta",
+         "duracion":30
+      },
+      {
+         "procesoId":6,
+         "nombred":"Proceso 6",
+         "seleccionado":true,
+         "prioridad":"Media",
+         "duracion":40
+      },
+      {
+         "procesoId":7,
+         "nombred":"Proceso 7",
+         "seleccionado":true,
+         "prioridad":"Alta",
+         "duracion":55
+      },
+      {
+         "procesoId":8,
+         "nombred":"Proceso 8",
+         "seleccionado":true,
+         "prioridad":"Media",
+         "duracion":60
+      },
+      {
+         "procesoId":9,
+         "nombred":"Proceso 9",
+         "seleccionado":true,
+         "prioridad":"Alta",
+         "duracion":70
+      },
+      {
+         "procesoId":10,
+         "nombred":"Proceso 10",
+         "seleccionado":true,
+         "prioridad":"Media",
+         "duracion":40
+      },
+      {
+         "procesoId":11,
+         "nombred":"Proceso 11",
+         "seleccionado":true,
+         "prioridad":"Media",
+         "duracion":20
+      },
+      {
+         "procesoId":12,
+         "nombred":"Proceso 12",
+         "seleccionado":true,
+         "prioridad":"Media",
+         "duracion":75
+      },
+      {
+         "procesoId":13,
+         "nombred":"Proceso 13",
+         "seleccionado":true,
+         "prioridad":"Media",
+         "duracion":40
+      },
+      {
+         "procesoId":14,
+         "nombred":"Proceso 14",
+         "seleccionado":true,
+         "prioridad":"Media",
+         "duracion":60
+      },
+      {
+         "procesoId":15,
+         "nombred":"Proceso 15",
+         "seleccionado":true,
+         "prioridad":"Media",
+         "duracion":40
+      }
+   ]
+}
